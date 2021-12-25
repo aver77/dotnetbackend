@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\dotan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dotan\\.nuget\\packages"
+    ]
+  }
+}
